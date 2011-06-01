@@ -1,5 +1,7 @@
 package android.RingOnRails;
 
-public class Alarma {
+import android.app.Activity;
+
+public class Alarma extends Activity {
 
 }
